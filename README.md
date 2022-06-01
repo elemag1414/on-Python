@@ -25,3 +25,8 @@ Remove Installed Files via xargs
 $ cd path/to/pacakge
 $ sudo xargs rm -rf < files.txt
 ```
+
+
+### Debugging
+
+* [How to Debug Multiple Python files via VSCode](debug.md)
