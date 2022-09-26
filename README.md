@@ -30,3 +30,4 @@ $ sudo xargs rm -rf < files.txt
 ### Debugging
 
 * [How to Debug Multiple Python files via VSCode](debug.md)
+* [Simple Background Removal](background-removal.md)
