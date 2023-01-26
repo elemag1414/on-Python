@@ -28,7 +28,7 @@ $ sudo xargs rm -rf < files.txt
 
 ### Tips
 
-* [Convert Avi to mp4]()
+* [Convert Avi to mp4](Tips/convertVideo.md)
 
 ### Debugging
 
