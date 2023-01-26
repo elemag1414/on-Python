@@ -26,6 +26,9 @@ $ cd path/to/pacakge
 $ sudo xargs rm -rf < files.txt
 ```
 
+### Tips
+
+* [Convert Avi to mp4]()
 
 ### Debugging
 
